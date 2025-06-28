@@ -99,12 +99,14 @@ function App() {
 						alt="whatsapp"
 						contact="+62 812 9262 9298"
 						buttonTitle="Chat"
+						href="https://wa.me/6281292629298"
 					/>
 					<Contact
 						src="https://ik.imagekit.io/5mtwtegkx/mitra-bisnis-logistik-assets/gmail.png?updatedAt=1750857380979"
 						alt="email"
 						contact="mitrabisnislogistik@gmail.com"
 						buttonTitle="Send Email"
+						href="mailto:mitrabisnislogistik@gmail.com"
 					/>
 				</div>
 			</div>

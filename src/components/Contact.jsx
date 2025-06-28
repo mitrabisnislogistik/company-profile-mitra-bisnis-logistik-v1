@@ -1,5 +1,5 @@
 function Contact(props) {
-	const { src, alt, contact, buttonTitle } = props;
+	const { src, alt, contact, buttonTitle, href } = props;
 	return (
 		<div className="flex flex-col justify-center mb-12 lg:mb-0">
 			<img
@@ -12,11 +12,11 @@ function Contact(props) {
 			</p>
 			<a
 				className="h-10 w-32 mx-auto rounded-full mulish true-blue px-4 py-3 text-sm font-medium text-white transition hover:scale-110 hover:rotate-2 focus:ring-3 focus:outline-hidden"
-				href="#">
+				href={href}
+				target="_blank">
 				{buttonTitle}
 			</a>
 		</div>
-		
 	);
 }
 
