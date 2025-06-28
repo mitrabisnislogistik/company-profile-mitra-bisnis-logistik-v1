@@ -1,0 +1,28 @@
+.mulish {
+	font-family: "Mulish", "sans-serif";
+	font-optical-sizing: auto;
+	font-weight: "weight";
+	font-style: "normal";
+}
+
+.pt-serif {
+	font-family: "PT Serif", serif;
+	font-weight: 700;
+	font-style: normal;
+}
+.soft-blue {
+	background-color: #e4e9ff;
+}
+.true-blue {
+	background-color: #1d1e92;
+}
+.true-red {
+	background-color: #bf0519;
+}
+
+.text-true-blue {
+	color: #1d1e92;
+}
+.text-true-red {
+	color: #bf0519;
+}
