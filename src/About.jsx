@@ -1,5 +1,6 @@
 import Header from "./components/Header";
 import Footer from "./components/Footer";
+import ButtonUp from "./components/ButtonUp";
 
 function About() {
 	return (
@@ -9,23 +10,21 @@ function About() {
 				<div className="lg:px-12 lg:mx-8 mx-4">
 					<p className="mb-8 text-center text-3xl pt-serif">Tentang Kami</p>
 					<p className="lg:mx-12 lg:px-16 mulish">
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a
-						lacus odio. Aliquam nec erat vitae turpis dapibus fermentum. Nulla
-						commodo pharetra facilisis. Proin pretium nisl sed dolor iaculis
-						pharetra. Proin ac magna velit. Morbi et egestas felis. Integer
-						lobortis dignissim tortor id tempus. Proin nunc justo, auctor eu est
-						a, posuere commodo dui. Nullam ipsum libero, tempus quis velit sed,
-						euismod lacinia tellus. Curabitur sagittis eros nec accumsan
-						bibendum. Morbi at ipsum diam. Morbi dictum, libero non congue
-						pulvinar, ligula sapien vestibulum elit, in posuere turpis tellus
-						bibendum velit. Etiam tristique dignissim est ut pharetra. Nunc est
-						tortor, malesuada at pretium vel, accumsan sed ante.
+						PT Mitra Bisnis Logistik adalah perusahaan jasa pengiriman kargo
+						yang berlokasi di Teluk Naga, Kabupaten Tangerang. Kami hadir
+						sebagai mitra terpercaya, berinovasi untuk menghadirkan pelayanan
+						ramah, kualitas kerja terbaik, serta jasa pengiriman kargo udara,
+						darat, dan laut yang efisien. Dengan perencanaan matang dan program
+						terarah, kami membangun kemitraan kokoh dan berkelanjutan. Komitmen
+						kami adalah memberikan kontribusi nyata bagi seluruh klien dan
+						masyarakat global, baik untuk kebutuhan pengiriman domestik maupun
+						internasional, melalui setiap layanan yang kami sediakan.
 					</p>
 				</div>
 				<div className="lg:mt-12 mt-6">
 					<img
-						src="https://ik.imagekit.io/5mtwtegkx/mitra-bisnis-logistik-assets/cargo-landing.jpg?updatedAt=1750852028023"
-						alt=""
+						src="https://ik.imagekit.io/5mtwtegkx/mitra-bisnis-logistik-assets/aboutus-1.jpg?updatedAt=1751141831709"
+						alt="about-us"
 						className="max-h-80 mx-auto rounded-3xl"
 					/>
 				</div>
@@ -66,6 +65,7 @@ function About() {
 			</div>
 
 			<Footer />
+			<ButtonUp />
 		</>
 	);
 }

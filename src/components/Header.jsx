@@ -34,7 +34,7 @@ function Header() {
 								<li>
 									<a
 										className="text-black transition hover:text-blue-800"
-										href="#layanan">
+										href="/#layanan">
 										Layanan
 									</a>
 								</li>
@@ -42,7 +42,7 @@ function Header() {
 								<li>
 									<a
 										className="text-black transition hover:text-blue-800"
-										href="#kontak">
+										href="/#kontak">
 										Kontak
 									</a>
 								</li>

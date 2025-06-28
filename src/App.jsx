@@ -28,9 +28,9 @@ function App() {
 				</div>
 				<div className="lg:m-8 p-8 pt-0">
 					<img
-						src="https://ik.imagekit.io/5mtwtegkx/mitra-bisnis-logistik-assets/cargo-landing.jpg?updatedAt=1750852028023"
+						src="https://ik.imagekit.io/5mtwtegkx/mitra-bisnis-logistik-assets/landing-1.jpg?updatedAt=1751141637243"
 						alt="cargo-landing"
-						className="lg:rounded-3xl rounded-2xl"
+						className="lg:rounded-3xl rounded-2xl max-h-96"
 					/>
 				</div>
 			</div>
