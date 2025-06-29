@@ -48,7 +48,7 @@ function About() {
 					</div>
 
 					{/* Misi */}
-					<div className="lg:p-8 p-4 pt-0 lg:pt-4">
+					<div className=" lg:p-8 p-4">
 						<h2 className="text-center text-3xl font-bold text-true-red mb-4">
 							Misi
 						</h2>
